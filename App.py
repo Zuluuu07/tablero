@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_drawable import st canvas
+from streamlit_drawable import st_canvas
 
 st.title("Tablero para dibujo")
 
